@@ -1,0 +1,89 @@
+.success-job-list-item {
+  background-color: #202020;
+  padding: 20px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15px;
+}
+
+.success-job-first-section {
+  display: flex;
+}
+
+.success-job-companyLogo {
+  height: 100%;
+  width: 55px;
+  margin-right: 15px;
+}
+
+.success-job-role-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.success-job-role-title {
+  color: #ffffff;
+  margin: 0;
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+
+.success-job-role-rating-container {
+  display: flex;
+  align-items: center;
+}
+
+.success-job-star {
+  color: #fbbf24;
+}
+
+.success-job-rating {
+  color: #ffffff;
+  padding: 0;
+  margin: 0;
+}
+
+.success-job-second-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 10px;
+  font-weight: 500;
+  color: #f1f5f9;
+}
+
+.success-job-location-container {
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+}
+
+.success-job-common-logo {
+  font-size: 20px;
+  margin-right: 8px;
+}
+
+.success-job-location {
+  margin-right: 20px;
+}
+
+.success-job-heading {
+  font-size: 18px;
+  border-top: 2px solid #64748b;
+  padding-top: 10px;
+  font-weight: 500;
+  color: #f1f5f9;
+}
+
+.success-job-description {
+  color: #f1f5f9;
+  font-size: 12px;
+  line-height: 23px;
+}
+
+.jobs-link-el {
+  text-decoration: none;
+}
+
+/*commenting out*/
