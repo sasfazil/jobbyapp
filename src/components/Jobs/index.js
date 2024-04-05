@@ -125,7 +125,7 @@ class Jobs extends Component {
         userDetails: profileDetails,
       })
     } else {
-      this.state({userProfileStatus: commonStatus.failure})
+      this.setState({userProfileStatus: commonStatus.failure})
     }
   }
 
