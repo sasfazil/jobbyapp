@@ -215,7 +215,7 @@ class Jobs extends Component {
 
   employTypeContainer = () => (
     <div className='employement-type-container'>
-      <h1 className='employ-type-heading'>Type of Employement</h1>
+      <h1 className='employ-type-heading'>Type of Employment</h1>
       <ul className='employ-type-list-container'>
         {employmentTypesList.map(each => (
           <EmployType
